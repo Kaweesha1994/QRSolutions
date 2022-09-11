@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QRSolutions.iml" filepath="$PROJECT_DIR$/.idea/QRSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/QuotaAPI/QuotaAPI.iml" filepath="$PROJECT_DIR$/microservices/QuotaAPI/QuotaAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/VehicleAPI/VehicleAPI.iml" filepath="$PROJECT_DIR$/microservices/VehicleAPI/VehicleAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/Zuul/Zuul.iml" filepath="$PROJECT_DIR$/microservices/Zuul/Zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/microservices/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>
